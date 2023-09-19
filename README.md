@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prabakaran
 - 👀 I’m interested in FrontEnd Development and Web Development 
 - 🌱 I’m currently learning Computer Science Engineering
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Great Lerarning
 - 📫 How to reach me prabakaransrinivasan2003@gmail.com
 
 <!---
